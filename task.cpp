@@ -437,6 +437,3 @@ extern "C" void app_main(void)
     }
 }
 
-
-
-(at first the code detect hand porperly but after few minute its slow down can not detect properly can you tell me whats the problem??)
